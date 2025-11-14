@@ -1,5 +1,5 @@
 gem "just-the-docs"
 
 theme: just-the-docs
-title: Jonathan Lim's homepage
-description: My universe of intellectual explorations
+title: "Jonathan Lim's homepage"
+description: "My universe of intellectual explorations"
