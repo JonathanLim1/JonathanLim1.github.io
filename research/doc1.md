@@ -6,7 +6,6 @@ tags:   [personal, update]
 categories: blog
 excerpt: "Quick intro to my new blog and what I'll write about."
 author: Your Name
-image: /assets/images/post-cover-1.jpg
 ---
 
 Hello world — this is my first post. Write Markdown here.  
